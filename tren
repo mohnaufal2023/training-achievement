@@ -1,0 +1,3 @@
+var saldo =  30000
+saldo = 30000
+console.log(saldo)
